@@ -28,7 +28,7 @@ to my personal GitHub profile!
 <div align="center">
 <p>Have a good day!</p>
 <div>
-<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+![Visitor Count](https://profile-counter.glitch.me/Paranoidal97/count.svg)
 </div>
 </div>
 
