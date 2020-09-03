@@ -25,12 +25,7 @@ to my personal GitHub profile!
 
 <hr>
 
-<div align="center">
-<p>Have a good day!</p>
-<div>
 ![Visitor Count](https://profile-counter.glitch.me/Paranoidal97/count.svg)
-</div>
-</div>
 
 <div align="center">
 <p></p>
