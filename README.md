@@ -24,8 +24,9 @@ to my personal GitHub profile!
 </div>
 
 <hr>
-
-![Visitor Count](https://profile-counter.glitch.me/Paranoidal97/count.svg)
+<div align="center">
+ ![Visitor Count](https://profile-counter.glitch.me/Paranoidal97/count.svg)
+</div>  
 
 <div align="center">
 <p></p>
