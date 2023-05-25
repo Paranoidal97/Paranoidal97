@@ -7,7 +7,7 @@
 <div align="center">
 Welcome to my page! </br> I'm Lucas, Junior Fullstack developer from <b>Lublin, Poland</b>, currently living in <b>Warsaw, Poland</b>. </p>
 
-<a align="center" href="https://paranoidal97.netlify.app/"> About me </a>
+<a align="center" href="https://paranoidal97.netlify.app/"> Portfolio website </a>
 </div>
 
 
